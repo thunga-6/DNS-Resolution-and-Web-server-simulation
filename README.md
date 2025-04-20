@@ -1,4 +1,4 @@
-# DNS Resolution and Web hosting simulation using Cisco Packet Tracer
+# DNS Resolution and Web server simulation using Cisco Packet Tracer
 
 - Student Name: K Thunga
 - Register No.: 23BCAR0324
