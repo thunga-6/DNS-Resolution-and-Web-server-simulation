@@ -83,6 +83,18 @@ All devices are connected using copper straight-through cables.
 -  ![Network Topology](screenshots/topology.png)
 
 ---
+## Website Simulation
+This project simulates five distinct websites, each hosted on a dedicated web server:
+
+- Web-Server-1: Simulates www.amazon.com 
+- Web-Server-2: Simulates www.swiggy.com
+- Web-Server-3: Simulates www.zomato.com
+- Web-Server-4: Simulates www.flipkart.com
+- Web-Server-5: Simulates www.blinkit.com
+
+Each web server is configured with a basic html page styled to visually represent the respective website's branding and includes a functional dark mode toggle. The DNS server is configured with 'A' records to map these website names to the corresponding web server IP addresses.
+
+---
 
 ## 📌 Concepts Demonstrated
 
