@@ -79,11 +79,8 @@ All devices are connected using copper straight-through cables.
 --- 
 ## 📸 Screenshots 
 
-- Network Topology View
+- Network Topology 
 -  ![Network Topology](screenshots/topology.png)
--  Example simulations (swiggy,amazon)
--  ![Network Topology](screenshots/swiggy.-simulation.png)
--  ![Network Topology](screenshots/amazon-simulation.png)
 
 ---
 
