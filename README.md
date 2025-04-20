@@ -77,6 +77,13 @@ All devices are connected using copper straight-through cables.
 3. Test by opening the browser on client devices and accessing the defined domain names
 
 --- 
+## 📸 Screenshots 
+
+- Network Topology View
+-  ![Network Topology](screenshots/topology.png)
+-  Example simulations (swiggy,amazon)
+-  ![Network Topology](screenshots/swiggy.-simulation.png)
+-  ![Network Topology](screenshots/amazon-simulation.png)
 
 ---
 
