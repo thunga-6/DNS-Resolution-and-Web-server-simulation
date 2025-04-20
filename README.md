@@ -1,5 +1,14 @@
 # DNS Resolution and Web hosting simulation using Cisco Packet Tracer
 
+- Student Name: K Thunga
+- Register No.: 23BCAR0324
+- Semester: IV – BCA (IoT Specialization)
+- Course: 23BCA4VC02 – Network Administration
+- College: Jain Deemed-to-be University
+- Faculty In-Charge: Mr. Sahabzada Betab Badar
+
+---
+
 ## 🧠 Project Overview
 
 This project simulates the DNS resolution process within a local area network (LAN) using Cisco Packet Tracer. The network includes client systems, multiple web servers, and a DNS server, all interconnected via a multilayer switch.
@@ -112,8 +121,4 @@ This simulation provides a clear visualization of how DNS works in a small netwo
 
 ---
 
-## 👤 Author
 
-- K Thunga
-- 4th semester | BCA-E | IoT Specialization  
-- Project for Network Administration 
