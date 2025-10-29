@@ -1,13 +1,4 @@
-# DNS Resolution and Web server simulation using Cisco Packet Tracer
 
-- Student Name: K Thunga
-- Register No.: 23BCAR0324
-- Semester: IV – BCA (IoT Specialization)
-- Course: 23BCA4VC02 – Network Administration
-- College: Jain Deemed-to-be University
-- Faculty In-Charge: Mr. Sahabzada Betab Badar
-
----
 
 ## 🧠 Project Overview
 
